@@ -2,8 +2,6 @@
 
 Effective date: 11 Sep 2026
 
-Docs&Loyalty is provided by Marko Benkek (“we,” “us,” or “our”).
-
 This policy explains how the app handles your information.
 
 ## 1. Overview
@@ -121,18 +119,16 @@ You can:
 - Delete stored items or delete the app and its data.
 - Manage device backups through Apple's settings and tools.
 
-For questions about this policy or applicable privacy rights, contact us using the details below.
+For questions about this policy or applicable privacy rights, contact me using the details below.
 
 ## 11. Changes to This Policy
 
-We may update this policy when the app's features or data practices change.
+I may update this policy when the app's features or data practices change.
 
 The effective date above identifies the current version. Material changes will be communicated as required by applicable law.
 
 ## 12. Contact
 
-Developer or company: [DEVELOPER OR COMPANY NAME]
-
-Privacy email: [PRIVACY CONTACT EMAIL]
-
-Address: [BUSINESS OR CONTACT ADDRESS]
+Developer or company: 
+Marko Benkek 
+mbenkek@gmail.com
